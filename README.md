@@ -1,2 +1,2 @@
 # miniprogram
-To my lover yuzhuozhen.
+软工大作业校园小程序2.0
